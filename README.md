@@ -358,7 +358,8 @@ Planned improvements include:
 
 📸 Screenshots
 
-Screenshots of the application will be added here as the interface continues to evolve.
+
+![Signup&Signin screen](https://github.com/ogumsamuel/CashPilot/blob/7907ec9aeb0d4d510429110621ae23b07cb37d29/Signin%26Signup.jpeg)
 
 ⸻
 
