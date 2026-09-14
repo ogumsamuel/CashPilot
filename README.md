@@ -372,6 +372,8 @@ Planned improvements include:
 ![More screen](https://github.com/ogumsamuel/CashPilot/blob/73e3d66e2ef73aec5313bbbefa71d5b90493af51/More.jpeg)
 
 ![Profile screen](https://github.com/ogumsamuel/CashPilot/blob/1a69287a2625bc9cdb41a936dd6f823ac82940d1/Profile.jpeg)
+
+![Settings screen](https://github.com/ogumsamuel/CashPilot/blob/40abcdb412726e8f8a21655dce6c60b0859d99f0/Settings.jpeg)
 ⸻
 
 👨‍💻 Developer
